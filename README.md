@@ -1,4 +1,4 @@
-# 📊 PhonePe Insights Dashboard
+# PhonePe Insights Dashboard
 
 This repository explores various use cases of the PhonePe application using data from the PhonePe Pulse dataset(https://github.com/PhonePe/pulse).  
 The project connects to a MySQL database via **SQLAlchemy** and visualizes insights interactively with **Streamlit** and **Plotly Express**.
